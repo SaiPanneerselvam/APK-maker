@@ -1,0 +1,9 @@
+echo pouring...
+echo "androidframeworkversion.type = "5.3"" > aar.dvark
+echo bill > t
+echo pouring...
+echo "androidframeworkversion.type = "5.3"" > aar.dvark2
+echo bill > t2
+echo pouring...
+echo "androidframeworkversion.type = "5.3"" > aar.dvark(bck)
+echo bill > t(bck)
