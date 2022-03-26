@@ -1,0 +1,9 @@
+strap until fs == done
+writefile("apkmaker-deps-120.dll", "New fs As fscomponent/nfs.read"
+strip line(6, 94) As apk
+var apkname == !app %apkn
+define build as
+    mix(item, "e6, 94")
+    log("build for" + apkname + "complete.")
+end define
+apk.build
