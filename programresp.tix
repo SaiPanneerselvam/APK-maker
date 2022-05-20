@@ -1,0 +1,4 @@
+'lget (wwclibs)
+Me.Sort(long,short)
+Me.WWCLIBS()
+Me.wwcapk = True
